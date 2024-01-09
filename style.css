@@ -1,6 +1,6 @@
 @font-face {
     font-family: super spicy;
-    src: url('Super Spicy Personal Use.ttf');
+    src: url('Super Spicy Personal Use.woff2');
 }
 
 html,
@@ -16,7 +16,7 @@ body {
 }
 
 div {
-    background-image: url('XncGiwY8F2M.jpg');
+    background-image: url('XncGiwY8F2M.webp');
     display: flex;
     align-items: center;
     justify-content: center;
