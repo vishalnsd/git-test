@@ -1,0 +1,33 @@
+@font-face {
+    font-family: super spicy;
+    src: url('Super Spicy Personal Use.ttf');
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    background-image: url('XncGiwY8F2M.jpg');
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+}
+
+h1 {
+    font-family: super spicy;
+    font-size: 5rem;
+    color: white;
+    mix-blend-mode: overlay;
+}
